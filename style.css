@@ -1169,7 +1169,7 @@ background: rgba(255, 255, 255, 0.062);
 }
 
 [class*="section"] {
-  padding: 60px;
+  padding: 20px 60px;
 
 }
 @media (max-width:1000px) {
@@ -1186,6 +1186,10 @@ background: rgba(255, 255, 255, 0.062);
   transition: all 0.1s ease-in-out;
   text-decoration: none;
   list-style: none;
+}
+
+.login-button{
+  margin-bottom: 40px;
 }
 
 
