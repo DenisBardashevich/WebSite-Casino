@@ -476,11 +476,11 @@ body::-webkit-scrollbar-track {
 }
 
 
-.tai88-image-1,
-  .tai88-image-2,
-  .tai88-image-3,
-  .tai88-image-4,
-  .tai88-image-5 {
+.QUY88-image-1,
+  .QUY88-image-2,
+  .QUY88-image-3,
+  .QUY88-image-4,
+  .QUY88-image-5 {
     width: 100%;
 
     height: auto;
@@ -489,18 +489,18 @@ body::-webkit-scrollbar-track {
   }
 
   @media (max-width: 1200px) {
-    .tai88-image-1,
-  .tai88-image-2,
-  .tai88-image-3,
-  .tai88-image-4,
-  .tai88-image-5{
+    .QUY88-image-1,
+  .QUY88-image-2,
+  .QUY88-image-3,
+  .QUY88-image-4,
+  .QUY88-image-5{
     height: auto;
   }
     
   }
 
   /* Стили для первой секции */
-  .tai88-section-1 {
+  .QUY88-section-1 {
     background: rgba(255, 255, 255, 0.062);
         color: #ffffff;
     padding: 40px 20px;
@@ -511,7 +511,7 @@ body::-webkit-scrollbar-track {
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
   }
 
-  .tai88-title-1 {
+  .QUY88-title-1 {
     font-size: 36px;
     font-weight: 900;
     margin-bottom: 15px;
@@ -519,21 +519,21 @@ body::-webkit-scrollbar-track {
     text-transform: uppercase;
   }
 
-  .tai88-subtitle-1 {
+  .QUY88-subtitle-1 {
     font-size: 24px;
     font-weight: 700;
     margin-bottom: 20px;
     color: #ffcc00;
   }
 
-  .tai88-description-1 {
+  .QUY88-description-1 {
     font-size: 16px;
     line-height: 1.8;
     margin-bottom: 30px;
     color: #e0e0e0;
   }
 
-  .tai88-button-1 {
+  .QUY88-button-1 {
     background-color: #ffcc00;
     color: #1a1a1a;
     padding: 15px 30px;
@@ -545,13 +545,13 @@ body::-webkit-scrollbar-track {
     transition: background-color 0.3s ease, transform 0.3s ease;
   }
 
-  .tai88-button-1:hover {
+  .QUY88-button-1:hover {
     background-color: #e6b800;
     transform: scale(1.05);
   }
 
   /* Стили для второй секции */
-  .tai88-section-2 {
+  .QUY88-section-2 {
     background: rgba(255, 255, 255, 0.062);
         color: #ffffff;
     padding: 40px 20px;
@@ -562,7 +562,7 @@ body::-webkit-scrollbar-track {
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
   }
 
-  .tai88-title-2 {
+  .QUY88-title-2 {
     font-size: 36px;
     font-weight: 900;
     margin-bottom: 15px;
@@ -570,21 +570,21 @@ body::-webkit-scrollbar-track {
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .tai88-subtitle-2 {
+  .QUY88-subtitle-2 {
     font-size: 24px;
     font-weight: 700;
     margin-bottom: 20px;
     color: #ffffff;
   }
 
-  .tai88-description-2 {
+  .QUY88-description-2 {
     font-size: 16px;
     line-height: 1.8;
     margin-bottom: 30px;
     color: #e0e0e0;
   }
 
-  .tai88-button-2 {
+  .QUY88-button-2 {
     background-color: #ffffff;
     color: #003366;
     padding: 15px 30px;
@@ -596,13 +596,13 @@ body::-webkit-scrollbar-track {
     transition: background-color 0.3s ease, transform 0.3s ease;
   }
 
-  .tai88-button-2:hover {
+  .QUY88-button-2:hover {
     background-color: #f0f0f0;
     transform: translateY(-5px);
   }
 
   /* Стили для третьей секции */
-  .tai88-section-3 {
+  .QUY88-section-3 {
     background: rgba(255, 255, 255, 0.062);
         color: #ffffff;
     padding: 40px 20px;
@@ -613,7 +613,7 @@ body::-webkit-scrollbar-track {
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
   }
 
-  .tai88-title-3 {
+  .QUY88-title-3 {
     font-size: 36px;
     font-weight: 900;
     margin-bottom: 15px;
@@ -621,21 +621,21 @@ body::-webkit-scrollbar-track {
     text-transform: uppercase;
   }
 
-  .tai88-subtitle-3 {
+  .QUY88-subtitle-3 {
     font-size: 24px;
     font-weight: 700;
     margin-bottom: 20px;
     color: #ffd700;
   }
 
-  .tai88-description-3 {
+  .QUY88-description-3 {
     font-size: 16px;
     line-height: 1.8;
     margin-bottom: 30px;
     color: #e0e0e0;
   }
 
-  .tai88-button-3 {
+  .QUY88-button-3 {
     background-color: #ffd700;
     color: #4b0082;
     padding: 15px 30px;
@@ -647,13 +647,13 @@ body::-webkit-scrollbar-track {
     transition: background-color 0.3s ease, transform 0.3s ease;
   }
 
-  .tai88-button-3:hover {
+  .QUY88-button-3:hover {
     background-color: #e6c200;
     transform: translateY(-5px);
   }
 
   /* Стили для четвертой секции */
-  .tai88-section-4 {
+  .QUY88-section-4 {
     background: rgba(255, 255, 255, 0.062);
         color: #ffffff;
     padding: 40px 20px;
@@ -664,7 +664,7 @@ body::-webkit-scrollbar-track {
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
   }
 
-  .tai88-title-4 {
+  .QUY88-title-4 {
     font-size: 36px;
     font-weight: 900;
     margin-bottom: 15px;
@@ -672,21 +672,21 @@ body::-webkit-scrollbar-track {
     text-transform: uppercase;
   }
 
-  .tai88-subtitle-4 {
+  .QUY88-subtitle-4 {
     font-size: 24px;
     font-weight: 700;
     margin-bottom: 20px;
     color: #ffa500;
   }
 
-  .tai88-description-4 {
+  .QUY88-description-4 {
     font-size: 16px;
     line-height: 1.8;
     margin-bottom: 30px;
     color: #e0e0e0;
   }
 
-  .tai88-button-4 {
+  .QUY88-button-4 {
     background-color: #ffa500;
     color: #006400;
     padding: 15px 30px;
@@ -698,13 +698,13 @@ body::-webkit-scrollbar-track {
     transition: background-color 0.3s ease, transform 0.3s ease;
   }
 
-  .tai88-button-4:hover {
+  .QUY88-button-4:hover {
     background-color: #e69500;
     transform: translateY(-5px);
   }
 
   /* Стили для пятой секции */
-  .tai88-section-5 {
+  .QUY88-section-5 {
     background: rgba(255, 255, 255, 0.062);
         color: #ffffff;
     padding: 40px 20px;
@@ -715,7 +715,7 @@ body::-webkit-scrollbar-track {
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
   }
 
-  .tai88-title-5 {
+  .QUY88-title-5 {
     font-size: 36px;
     font-weight: 900;
     margin-bottom: 15px;
@@ -723,21 +723,21 @@ body::-webkit-scrollbar-track {
     text-transform: uppercase;
   }
 
-  .tai88-subtitle-5 {
+  .QUY88-subtitle-5 {
     font-size: 24px;
     font-weight: 700;
     margin-bottom: 20px;
     color: #ffd700; /* Золотой цвет для подзаголовка */
   }
 
-  .tai88-description-5 {
+  .QUY88-description-5 {
     font-size: 16px;
     line-height: 1.8;
     margin-bottom: 30px;
     color: #e0e0e0; /* Светло-серый цвет текста */
   }
 
-  .tai88-button-5 {
+  .QUY88-button-5 {
     background-color: #ffd700; /* Золотой фон */
     color: #8b0000; /* Темно-красный текст */
     padding: 15px 30px;
@@ -749,22 +749,22 @@ body::-webkit-scrollbar-track {
     transition: background-color 0.3s ease, transform 0.3s ease;
   }
 
-  .tai88-button-5:hover {
+  .QUY88-button-5:hover {
     background-color: #e6c200; /* Темнее золотой */
     transform: translateY(-5px); /* Подъем кнопки */
   }
 
   @media (max-width: 768px) {
-    .tai88-title-5 {
+    .QUY88-title-5 {
       font-size: 28px;
     }
-    .tai88-subtitle-5 {
+    .QUY88-subtitle-5 {
       font-size: 20px;
     }
-    .tai88-description-5 {
+    .QUY88-description-5 {
       font-size: 14px;
     }
-    .tai88-button-5 {
+    .QUY88-button-5 {
       padding: 12px 24px;
       font-size: 16px;
     }
@@ -1150,7 +1150,7 @@ background: rgba(255, 255, 255, 0.062);
 }
 
 @media (max-width:426px) {
-  [class^="tai88-button"]{
+  [class^="QUY88-button"]{
     padding: 15px 15px;
 
   }
