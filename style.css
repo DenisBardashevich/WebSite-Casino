@@ -243,7 +243,7 @@ body::-webkit-scrollbar-track {
         z-index: 999; /* Указываем z-index */
         display: flex;
         flex-direction: column; /* Выравнивание пунктов меню по вертикали */
-        justify-content: center;
+        justify-content: space-evenly;
         align-items: center;
     }
 
@@ -254,7 +254,7 @@ body::-webkit-scrollbar-track {
 
     /* Стилизация навигационных ссылок в меню */
     .nav-link {
-        color: #479dff; /* Цвет текста для навигации */
+        color: #ffffff; /* Цвет текста для навигации */
         padding: 20px; /* Отступы вокруг пунктов меню */
         border-bottom: 1px solid #666; /* Разделители между пунктами */
     }
@@ -263,7 +263,7 @@ body::-webkit-scrollbar-track {
 @media (max-width:426px) {
     
     .burger-line{
-        background-color: rgb(0, 0, 0);
+        background-color: rgb(255, 255, 255);
     }
     .main-content{
         margin-top: 0;
@@ -535,7 +535,7 @@ body::-webkit-scrollbar-track {
 
   .QUY88-button-1 {
     background-color: #ffcc00;
-    color: #1a1a1a;
+    color: black;
     padding: 15px 30px;
     font-size: 18px;
     font-weight: bold;
@@ -586,7 +586,7 @@ body::-webkit-scrollbar-track {
 
   .QUY88-button-2 {
     background-color: #ffffff;
-    color: #003366;
+    color: black;
     padding: 15px 30px;
     font-size: 18px;
     font-weight: bold;
@@ -637,7 +637,7 @@ body::-webkit-scrollbar-track {
 
   .QUY88-button-3 {
     background-color: #ffd700;
-    color: #4b0082;
+    color: black;
     padding: 15px 30px;
     font-size: 18px;
     font-weight: bold;
@@ -668,7 +668,7 @@ body::-webkit-scrollbar-track {
     font-size: 36px;
     font-weight: 900;
     margin-bottom: 15px;
-    color: #ffa500;
+    color: #ffd700;
     text-transform: uppercase;
   }
 
@@ -676,7 +676,7 @@ body::-webkit-scrollbar-track {
     font-size: 24px;
     font-weight: 700;
     margin-bottom: 20px;
-    color: #ffa500;
+    color: #ffd700;
   }
 
   .QUY88-description-4 {
@@ -687,8 +687,8 @@ body::-webkit-scrollbar-track {
   }
 
   .QUY88-button-4 {
-    background-color: #ffa500;
-    color: #006400;
+    background-color: #ffd700;
+    color: black;
     padding: 15px 30px;
     font-size: 18px;
     font-weight: bold;
@@ -699,7 +699,7 @@ body::-webkit-scrollbar-track {
   }
 
   .QUY88-button-4:hover {
-    background-color: #e69500;
+    background-color: #e6c200;
     transform: translateY(-5px);
   }
 
@@ -739,7 +739,7 @@ body::-webkit-scrollbar-track {
 
   .QUY88-button-5 {
     background-color: #ffd700; /* Золотой фон */
-    color: #8b0000; /* Темно-красный текст */
+    color: black;
     padding: 15px 30px;
     font-size: 18px;
     font-weight: bold;
@@ -1164,12 +1164,10 @@ background: rgba(255, 255, 255, 0.062);
   cursor: pointer; /* Изменяем курсор на указатель */
 }
 
-.nav-button:hover .nav-link {
-  text-decoration: underline; /* Подчеркивание при наведении */
-}
+
 
 [class*="section"] {
-  padding: 20px 60px;
+  padding: 30px;
 
 }
 @media (max-width:1000px) {
@@ -1181,10 +1179,10 @@ background: rgba(255, 255, 255, 0.062);
 }
 
 .btnLogo{
-  background-color: orangered;  padding: 5px 8px;
+  background-color: orangered;  padding: 10px 15px;
   border-radius: 7px;
   transition: all 0.1s ease-in-out;
-  text-decoration: none;
+  text-decoration: none !important;
   list-style: none;
 }
 
@@ -1206,14 +1204,12 @@ background: rgba(255, 255, 255, 0.062);
 @media (min-width: 1025px) {
     .nav-link:hover {
         color: silver;
+        text-decoration: underline;
     }
     .header-btn-app:hover {
         background-color: rgb(201, 54, 0);
     }
     .btnLogo:hover{
       background-color: rgb(201, 54, 0);
-      
-
-
     }
 }
